@@ -8,11 +8,12 @@ The program was designed as a personal-management tool to improve organizational
 ### Upcoming Assessments
 ![upcoming_assessments](https://user-images.githubusercontent.com/72565412/168689049-9acbc5f9-a8d7-4832-91f5-2a0dab055912.jpg)
 
+#### User Form to Add an Assessment
+![Addnewassessment](https://user-images.githubusercontent.com/72565412/168690314-75848d70-4f80-4ab1-8e5a-1b059f6ca224.jpg)
+
 When the user adds an assessment, they are first prompted to categorize it under tests or deliverables. Depending on what's selected, the user is directed towards a specific user form (test vs. deliverable user form).
 ![adddeliverable](https://user-images.githubusercontent.com/72565412/168690313-86b41432-d507-4cd3-8aab-4a494da2a120.jpg)
 
-#### User Form to Add an Assessment
-![Addnewassessment](https://user-images.githubusercontent.com/72565412/168690314-75848d70-4f80-4ab1-8e5a-1b059f6ca224.jpg)
 
 #### Editing a Test/Deliverable
 The user can select a test or deliverable from a drop-down menu.
