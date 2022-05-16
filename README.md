@@ -39,4 +39,5 @@ Before marking as complete, the user is prompted
 
 If the user 
 ![complete](https://user-images.githubusercontent.com/72565412/168690495-d5f9c6a6-6622-4fbf-9778-bf9c1bbca788.jpg)
+![complete2](https://user-images.githubusercontent.com/72565412/168691451-7e4036d2-44c1-4fee-8195-8b2d79b361d5.jpg)
 
