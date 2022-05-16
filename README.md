@@ -8,7 +8,7 @@ The program was designed as a personal-management tool to improve organizational
 ### Upcoming Assessments
 ![upcoming_assessments](https://user-images.githubusercontent.com/72565412/168689049-9acbc5f9-a8d7-4832-91f5-2a0dab055912.jpg)
 
-The user chooses between a test or deliverable, and is directed towards a specific user form depending on what they select.
+When the user adds an assessment, they are first prompted to categorize it under tests or deliverables. Depending on what's selected, the user is directed towards a specific user form (test vs. deliverable user form).
 ![adddeliverable](https://user-images.githubusercontent.com/72565412/168690313-86b41432-d507-4cd3-8aab-4a494da2a120.jpg)
 
 #### User Form to Add an Assessment
@@ -34,10 +34,9 @@ Tracks extra-curricular tasks that must be balanced among course work.
 Deliverables/tests are transferred to this sheet after they are marked as complete. This allows the user to look back on past results.
 ![Completed_Tasks](https://user-images.githubusercontent.com/72565412/168690459-75ca3a8a-dae9-42a0-9d60-2aca36262ddb.jpg)
 
-Before marking as complete, the user is prompted 
+Before marking as complete, the user is prompted to enter the grade they received and the number of hours they ended up studying for.
 ![complete33](https://user-images.githubusercontent.com/72565412/168690486-e09f629b-f479-468b-ab06-aa33b24338ed.jpg)
 
-If the user 
-![complete](https://user-images.githubusercontent.com/72565412/168690495-d5f9c6a6-6622-4fbf-9778-bf9c1bbca788.jpg)
+If the user does not achieve the grade they expected, an algorithm is designed to recommend how many more hours they should have studied.
 ![complete2](https://user-images.githubusercontent.com/72565412/168691451-7e4036d2-44c1-4fee-8195-8b2d79b361d5.jpg)
 
