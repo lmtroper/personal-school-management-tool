@@ -39,5 +39,6 @@ Before marking as complete, the user is prompted to enter the grade they receive
 ![complete33](https://user-images.githubusercontent.com/72565412/168690486-e09f629b-f479-468b-ab06-aa33b24338ed.jpg)
 
 If the user does not achieve the grade they expected, an algorithm is designed to recommend how many more hours they should have studied.
+
 ![complete2](https://user-images.githubusercontent.com/72565412/168691451-7e4036d2-44c1-4fee-8195-8b2d79b361d5.jpg)
 
